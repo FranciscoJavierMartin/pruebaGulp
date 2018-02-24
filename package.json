@@ -1,0 +1,26 @@
+{
+  "name": "pruebagulptypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir='dist'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "lite-server": "^2.3.0",
+    "typescript": "^2.7.2",
+    "vinyl-buffer": "^1.0.1"
+  },
+  "dependencies": {
+    "@types/d3": "^5.0.0"
+  }
+}

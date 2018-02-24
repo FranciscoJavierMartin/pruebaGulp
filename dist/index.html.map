@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["index.html"],"sourcesContent":["<!DOCTYPE html>\n<html>\n<head>\n<title>Page Title</title>\n</head>\n<body>\n  <script src=\"app.min.js\"></script>\n\n<h1>Cabecera</h1>\n<p>This is a paragraph./p>\n\n</body>\n</html> "],"file":"index.html"}
